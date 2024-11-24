@@ -1,1 +1,1 @@
-import{o as e}from"./index-91f402d1.js";function t(){return e("div",{class:"w-full h-full bg-zinc-800",children:e("iframe",{src:"https://github1s.com/whiteneone00/whiteneone00",scrolling:"no",height:"100%",width:"100%"})})}export{t as default};
+import{o as e}from"./index-91f402d1.js";function t(){return e("div",{class:"w-full h-full bg-zinc-800",children:e("iframe",{src:"https://github1s.com/RealNxll/RealNxll",scrolling:"no",height:"100%",width:"100%"})})}export{t as default};
